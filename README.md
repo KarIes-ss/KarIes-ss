@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![lerning_some_smart_things](/assets/lerning_some_things.jpg)
+
 <!--
 **KarIes-ss/KarIes-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
